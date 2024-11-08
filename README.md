@@ -1,11 +1,12 @@
 # Lotus Delivery
-```
 
-- Commands to run the project
+**Lotus Delivery** là một dự án phục vụ mục đích học tập, lấy cảm hứng từ hệ thống giao hàng chuyên nghiệp.
 
-```
-npm i
+### Bắt đầu với dự án
+
+```bash
+# Cài đặt các gói cần thiết
+npm install
+
+# Khởi động ứng dụng
 npm start
-```
-
-_Note: This project is for learning purposes only, [this](https://lotusdelivery.vn/) is the main website._
